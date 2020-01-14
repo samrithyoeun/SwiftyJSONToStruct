@@ -12,7 +12,7 @@ Installation
 ========================
 Kindly clone the project, and build it using xCode 8 and above.
 
-https://github.com/samrithyoeun/SwiftyJSONToStruct/blob/master/Screen%20Shot%202020-01-14%20at%2011.05.37%20AM.png
+![alt tag]https://github.com/samrithyoeun/SwiftyJSONToStruct/blob/master/Screen%20Shot%202020-01-14%20at%2011.05.37%20AM.png
 
 Final Note
 ========================
