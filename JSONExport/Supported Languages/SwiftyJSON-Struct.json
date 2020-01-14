@@ -107,7 +107,7 @@
     "dataTypes": {
         "stringType": "\"\"",
         "boolType": "false",
-        "floatType": "Float = 0.0",
+        "floatType": "0.0",
         "doubleType": "0.0",
         "characterType": "\".\"",
         "longType": "0.0",
@@ -141,7 +141,7 @@
                                            "0",
                                            "false",
                                            "\".\"",
-                                           "Float = 0.0",
+                                           "0.0",
                                            "0.0",
                                            "\"\"",
                                            "AnyObject"

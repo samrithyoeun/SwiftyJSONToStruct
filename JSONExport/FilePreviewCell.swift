@@ -9,7 +9,6 @@
 import Cocoa
 
 class FilePreviewCell: NSTableCellView, NSTextViewDelegate {
-
     
     @IBOutlet var classNameLabel: NSTextFieldCell!
     @IBOutlet var constructors: NSButton!
